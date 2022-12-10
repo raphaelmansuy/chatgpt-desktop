@@ -37,11 +37,13 @@ https://support.apple.com/en-sg/guide/mac-help/mh40616/mac
 ## Developing
 
 ```
+yarn
 yarn tauri dev
 ```
 
 ## Building
 
 ```
+yarn
 yarn tauri build
 ```
